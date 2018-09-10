@@ -1,5 +1,5 @@
 {
-  "name": "egg-redis",
+  "name": "egg-redis-hb",
   "version": "2.0.0",
   "description": "Redis plugin for egg",
   "eggPlugin": {
