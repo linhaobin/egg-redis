@@ -19,7 +19,7 @@
     "database"
   ],
   "dependencies": {
-    "ioredis": "^3.2.2"
+    "ioredis": "^4.0.0"
   },
   "devDependencies": {
     "autod": "^3.0.1",
